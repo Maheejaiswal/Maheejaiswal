@@ -13,7 +13,7 @@
 - 💬 Ask me anything about SM music
 
 - Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-  Ask me anything by<a href="mailto:jaiswalmahee22@gmail.com"><b>email</b></a> me
+  Ask me anything by<a href="mailto:jaiswalmahee22@gmail.com"><b> email</b></a>
 
 <i>Happy Coding!</i> 😊
 
