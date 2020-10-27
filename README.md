@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a third Year CSE student at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Womens,Nagpur.</a>
 
--- 😄 Pronouns: She / Her
+- 😄 Pronouns: She / Her
 
 - 💬 Ask me about SM music
 
