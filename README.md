@@ -17,7 +17,8 @@
 
 <i>Happy Coding!</i> 😊
 
-Show some ❤️ ! ⭐️  some of my repositories!
+Show some ❤️ !
+⭐️  some of my repositories!
 
 </div> 
 
