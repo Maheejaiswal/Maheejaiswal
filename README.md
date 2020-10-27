@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-- You have finally discovered my Github profile. <br>
+  
+- You have finally discovered my Github profile. 
 
 - 🔭 I’m currently a third Year CSE student at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Womens,Nagpur.</a>
 
