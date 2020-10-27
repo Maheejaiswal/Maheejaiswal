@@ -1,6 +1,14 @@
-### <div align="center">Hi, I'm Mahee Jaiswal
-  
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Maheejaiswal/Maheejaiswal/main/gifs/Hi.gif" width="30px"></h2>
+</div>
 
+<div align="center" width="50">
+
+<img src="https://res.cloudinary.com/meghacloud/image/upload/v1601813053/gif/QBHPVKpu_owaael.gif" alt="Welcome!" width="1024"/>
+
+</div>
+
+<div align="center">
 - You have finally discovered my Github profile. <br>
 
 - 🔭 I’m currently a third Year CSE student at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Womens,Nagpur.</a>
