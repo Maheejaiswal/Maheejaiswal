@@ -4,7 +4,7 @@
 
 <div align="center">
   
-- I am <h1>Mahee Jaiswal>/h1>,an Aspiring Web Developer 😊
+- I am <h1>Mahee Jaiswal></h1>,an Aspiring Web Developer 😊
 
 - 🔭 I’m currently a third Year CSE student at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Womens,Nagpur.</a>
 
