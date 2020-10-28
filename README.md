@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  
-- I am <h1>Mahee Jaiswal></h1>,an Aspiring Web Developer 😊
+  <h2>
+- I am <h1>Mahee Jaiswal,</h1>an Aspiring Web Developer 😊
 
 - 🔭 I’m currently a third Year CSE student at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Womens,Nagpur.</a>
 
@@ -19,7 +19,7 @@
 
 Show some ❤️ !</br>
 ⭐️  some of my repositories!
-
+</h2>
 </div> 
 
 ## Connect with me  
