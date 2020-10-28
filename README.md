@@ -3,23 +3,23 @@
 </div>
 
 <div align="center">
-  <h2>
-- I am <h1>Mahee Jaiswal,</h1>an Aspiring Web Developer 😊
 
-- 🔭 I’m currently a third Year CSE student at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Womens,Nagpur.</a>
+ I am Mahee Jaiswal,an Aspiring Web Developer 😊
 
-- 😄 Pronouns: She / Her
+ 🔭 I’m currently a third Year CSE student at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Womens,Nagpur.</a>
 
-- 💬 Ask me anything about SM music
+ 😄 Pronouns: She / Her
 
-- Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+ 💬 Ask me anything about SM music
+
+ Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
   Ask me anything by<a href="mailto:jaiswalmahee22@gmail.com"><b> email</b></a>
 
 <i>Happy Coding!</i> 😊
 
 Show some ❤️ !</br>
 ⭐️  some of my repositories!
-</h2>
+
 </div> 
 
 ## Connect with me  
