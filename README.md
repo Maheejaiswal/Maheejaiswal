@@ -1,5 +1,5 @@
 <div align="center">
- <h2><b> Hola</b>, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+ <h2><i> Hola</i>, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
 
 <div align="center">
