@@ -12,7 +12,7 @@
 
  💬 Ask me anything about Shawn Mendes music
 
- Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+ Please feel free to clone/fork projects, raise issues and submit PRs if you think it can be optimized. <br>
   Ask me anything by<a href="mailto:jaiswalmahee22@gmail.com"><b> email</b></a>
 
 <i>Happy Coding!</i> 😊
