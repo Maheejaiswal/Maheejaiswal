@@ -22,6 +22,9 @@ Show some ❤️ !</br>
 
 </div> 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Maheejaiswal" alt="Maheejaiswal" /> </p>
+<p align="center">
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Maheejaiswal" target="_blank">
