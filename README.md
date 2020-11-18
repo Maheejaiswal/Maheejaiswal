@@ -45,3 +45,6 @@ Show some ❤️ !</br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maheejaiswal&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <br/>  
+
+[![Top Langs](https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=Pranav016&layout=compact)](https://github.com/Pranav016/Pranav016.git)
+</br>
