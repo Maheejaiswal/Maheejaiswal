@@ -36,9 +36,11 @@ Show some ❤️ !</br>
 <a href="https://www.linkedin.com/in/mahee-jaiswal-19112000/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="https://medium.com/@maheejaiswal/" target="_blank">
+<a href="https://medium.com/@maheejaiswal/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white alt=Medium style="margin-bottom: 5px;" />
- 
+</a>
+<a href="https://hashnode.com/@greeneyedev19/" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white alt=Medium style="margin-bottom: 5px;" />
 </div>  
   
 <br/>  
