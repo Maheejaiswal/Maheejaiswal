@@ -40,7 +40,7 @@ Show some ❤️ !</br>
 <img src=https://img.shields.io/badge/medium-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white alt=Medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://hashnode.com/@greeneyedev19/" target="_blank">
-<img src=https://img.shields.io/badge/Hashnode-%2324292e.svg?&style=for-the-badge&logo=Hashnode&logoColor=white alt=Hashnode style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Hashnode-%#34568B.svg?&style=for-the-badge&logo=Hashnode&logoColor=white alt=Hashnode style="margin-bottom: 5px;" />
 </div>  
   
 <br/>  
