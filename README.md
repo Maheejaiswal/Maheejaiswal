@@ -10,7 +10,7 @@
 
  😄 Pronouns: She / Her
 
- 💬 Ask me anything about Shawn Mendes music
+ 💬 Ask me anything about Shawn Mendes albums
 
  Please feel free to clone/fork projects, raise issues and submit PRs if you think it can be optimized. <br>
   Ask me anything by<a href="mailto:jaiswalmahee22@gmail.com"><b> email</b></a>
