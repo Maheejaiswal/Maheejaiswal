@@ -44,15 +44,5 @@ Show some ❤️ !</br>
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maheejaiswal&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<br/>  
-
-## Languages
-<div align="center"> 
- 
-[![Top Langs](https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=Maheejaiswal&layout=compact)](htt<div align="center">
- <h2><i> Hola</i>, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
-</div>
 
