@@ -6,7 +6,7 @@
 
  I am Mahee Jaiswal,an Aspiring Software Developer 😊
 
- 🔭 I’m currently in my Junior year, pursuing a major in Computer Science at <a href="https://www.cumminscollege.edu.in/">Cummins College of Engineering for Women, Nagpur.</a>
+ 🔭 I’m currently in my Junior year, pursuing a major in Computer Science at Uni.
 
  😄 Pronouns: She / Her
 
